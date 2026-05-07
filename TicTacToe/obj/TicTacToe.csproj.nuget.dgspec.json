@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\TicTacToe\\TicTacToe.csproj": {}
+    "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\tictactoe\\TicTacToe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\TicTacToe\\TicTacToe.csproj": {
+    "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\tictactoe\\TicTacToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\TicTacToe\\TicTacToe.csproj",
+        "projectUniqueName": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\tictactoe\\TicTacToe.csproj",
         "projectName": "TicTacToe",
-        "projectPath": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\TicTacToe\\TicTacToe.csproj",
+        "projectPath": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\tictactoe\\TicTacToe.csproj",
         "packagesPath": "C:\\Users\\furci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\TicTacToe\\obj\\",
+        "outputPath": "C:\\Users\\furci\\Documents\\POO 2026\\Tictactoe\\tictactoe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
